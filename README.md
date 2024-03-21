@@ -21,7 +21,7 @@
 
 <div>
     <h2 align="center">Statistics</h2>
-    <p align="center">
+    <p align="center" display=block>
         <a href="https://github.com/ezravergabera">
             <img src="https://streak-stats.demolab.com/?user=ezravergabera&theme=buefy&include_all_commits=true&count_private=true">
         </a>
@@ -44,7 +44,7 @@
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
         </a>
         <a href="https://www.linkedin.com/in/jose-ezra-nazarene-vergabera-4346a7258/">
-            <img src="    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         <a href="https://www.github.com/ezravergabera">
             <img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"/>
