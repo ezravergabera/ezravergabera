@@ -21,7 +21,7 @@
 
 <div>
     <h2 align="center">Statistics</h2>
-    <p align="center" display=block>
+    <p align="center" style="display: block;">
         <a href="https://github.com/ezravergabera">
             <img src="https://streak-stats.demolab.com/?user=ezravergabera&theme=buefy&include_all_commits=true&count_private=true">
         </a>
