@@ -21,16 +21,22 @@
 
 <div>
     <h2 align="center">Statistics</h2>
-    <p align="center" style="display: block;">
-        <a href="https://github.com/ezravergabera">
-            <img src="https://streak-stats.demolab.com/?user=ezravergabera&theme=buefy&include_all_commits=true&count_private=true">
-        </a>
-        <a href="https://github.com/ezravergabera">
-            <img src="https://github-readme-stats.vercel.app/api?username=ezravergabera&theme=buefy&count_private=true">
-        </a>            
-        <a href="https://github.com/ezravergabera">
-            <img alt="Most Used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ezravergabera&langs_count=8&count_private=true&layout=compact&theme=buefy"/>
-        </a>
+    <p align="center">
+        <div>
+            <a href="https://github.com/ezravergabera">
+                <img src="https://streak-stats.demolab.com/?user=ezravergabera&theme=buefy&include_all_commits=true&count_private=true">
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/ezravergabera">
+                <img src="https://github-readme-stats.vercel.app/api?username=ezravergabera&theme=buefy&count_private=true">
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/ezravergabera">
+                <img alt="Most Used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ezravergabera&langs_count=8&count_private=true&layout=compact&theme=buefy"/>
+            </a>
+        </div>
     </p>
 </div>
 
