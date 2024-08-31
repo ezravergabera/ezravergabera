@@ -5,8 +5,6 @@
     <p>
         <img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines.
     </p>
-    <p>📚 - Just finished writing the chapter 1 - 3 of our research. I can finally go back to coding.</p>
-    <p>🎯 - Learn all data structures there are.</p>
 </div>
 
 <div align="center">
