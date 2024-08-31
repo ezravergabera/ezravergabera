@@ -10,9 +10,9 @@
 <div align="center">
     <h2>Tech Stack</h2>
     <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,js&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,js,php&perline=4"/>
     <h3>Frameworks/Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,vite,nodejs&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=laravel,vue,react,vite,nodejs&perline=4"/>
     <h3>Development Tools</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell&perline=4"/>
 </div>
