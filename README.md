@@ -21,7 +21,7 @@
     <h2 align="center">Statistics</h2>
     <div align="center">
         <a href="https://github.com/ezravergabera">
-            <img src="https://streak-stats.demolab.com/?user=ezravergabera&theme=buefy&include_all_commits=true&count_private=true">
+            <img src="https://github-readme-streak-stats-three-murex.vercel.app?user=ezravergabera&theme=buefy&hide_border=true&fire=FF0000&ring=FF8F8F&currStreakNum=FF200D" alt="GitHub Streak" />
         </a>
     </div>
     <div align="center">
