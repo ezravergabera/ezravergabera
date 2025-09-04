@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ezra Vergabera  <img src="emoji-waving-happy-emoji.gif" height="30" width="30"></h2>
+<h1 align="center">Hi, I'm Ezra Vergabera  <img src="emoji-waving-happy-emoji.gif" height="30" width="30"></h2>
 
 <div align="center">
     <h2>About Me</h2>
