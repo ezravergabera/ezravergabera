@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ezra Vergabera  <img src="[https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif](https://github.com/user-attachments/assets/77304f11-2261-40a7-a6e1-e9396eff55b8)" height="30" width="30"></h2>
+<h2 align="center">Hi, I'm Ezra Vergabera  <img src="emoji-waving-happy-emoji.gif" height="30" width="30"></h2>
 
 <div align="center">
     <h2>About Me</h2>
