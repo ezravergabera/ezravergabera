@@ -1,20 +1,24 @@
-<h1 align="center">👋 Hello, I'm Ezra Vergabera</h2>
+<h2 align="center">Hi, I'm Ezra Vergabera  <img src="[https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif](https://github.com/user-attachments/assets/77304f11-2261-40a7-a6e1-e9396eff55b8)" height="30" width="30"></h2>
 
 <div align="center">
-    <h2>About me</h2>
+    <h2>About Me</h2>
     <p>
-        <img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="20px"/> - I'm a Computer Science student at Polytechnic University of the Philippines.
+        I'm a Computer Science student at <strong>Polytechnic University of the Philippines</strong> <br>
+        Passionate about Software Engineering, AI/ML, and Full-Stack Development <br>
+        Always exploring new technologies and building impactful projects
     </p>
 </div>
 
 <div align="center">
     <h2>Tech Stack</h2>
-    <h3>Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,js,php&perline=4"/>
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css"/>
     <h3>Frameworks/Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=laravel,vue,react,vite,nodejs&perline=4"/>
-    <h3>Development Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,django,flask,vite,laravel"/>
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,docker,vercel,heroku,postman,vscode,visualstudio,powershell"/>
 </div>
 
 <div>
