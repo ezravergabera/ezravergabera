@@ -3,7 +3,7 @@
 <div align="center">
     <h2>About Me</h2>
     <p>
-        I'm a Computer Science student at <strong>Polytechnic University of the Philippines</strong> <br>
+        I'm a Computer Science Graduate at <strong>Polytechnic University of the Philippines</strong> <br>
         Passionate about Software Engineering, AI/ML, and Full-Stack Development <br>
         Always exploring new technologies and building impactful projects
     </p>
@@ -12,13 +12,13 @@
 <div align="center">
     <h2>Tech Stack</h2>
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,ruby,java,js,ts,html,css"/>
     <h3>Frameworks/Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,django,flask,vite,laravel"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,rails,tailwind,bootstrap,django,flask,vite,laravel"/>
     <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,docker,vercel,heroku,postman,vscode,visualstudio,powershell"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,vercel,heroku,postman,vscode,visualstudio,powershell,windows,ubuntu"/>
 </div>
 
 <div>
